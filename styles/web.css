@@ -15,21 +15,21 @@
 .quieroempezar a{
     background: rgb(243, 194, 69);
     color: rgb(7, 7, 108);
-    min-width: 260px;
-    width: 20vw;
-    height: 4vw;
+    width: 15vw;
+    height: 15vw;
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
     position: fixed;
     bottom: 5vh;
     right: 5vw;
     text-decoration: none;
     /* margin-left: 65vw; */
-    border-radius: 5%;
+    border-radius: 50%;
     text-transform: uppercase;
     font-weight: 800;
-    font-size: 1.5rem;
+    font-size: 1rem;
     box-shadow:1px 0px 10px rgba(0, 0, 0, 0.699) ;
 }
 nav{
@@ -272,7 +272,7 @@ h3{
     justify-self: end;
 }
 .videocomo{
-   width: 100%;
+    width: 100%;
 }
 
 
@@ -348,8 +348,8 @@ h3{
     
 }
 .cardmision4 img{
-    width: 90%;
     padding-right: 10%;
+    height: 130%;
     
     
 }
@@ -456,7 +456,7 @@ footer{
     grid-template-rows: 400px 200px;
     grid-template-areas: 
     " formulario formulario"
-    "listado copi";
+    "copi listado";
 
 }
 
@@ -519,12 +519,7 @@ footer{
     list-style-type:circle;
     margin-left: 3rem;
 }
-.copy{
-    grid-area: copi;
-    align-self: self-end;
-    justify-self: end;
-    margin-bottom: 10vh;
-}
+
 .copy img{
     width: 150px;
 }
