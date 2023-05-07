@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 316 316">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Sky-2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        opacity: .26;
+      }
+
+      .cls-2 {
+        fill: url(#Sky-4);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_113-2);
+      }
+
+      .cls-4 {
+        fill: url(#Sky-7);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-5 {
+        fill: url(#Sky-3);
+      }
+
+      .cls-6 {
+        fill: url(#Sky-6);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        fill: url(#Degradado_sin_nombre_113);
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-12 {
+        fill: #fff;
+        font-family: CooperBlackStd, 'Cooper Std';
+        font-size: 182.73px;
+      }
+
+      .cls-13 {
+        fill: url(#Sky);
+      }
+
+      .cls-8 {
+        fill: url(#Sky-5);
+      }
+    </style>
+    <clipPath id="clippath">
+      <circle class="cls-11" cx="158" cy="158" r="158"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-11" x="-162" y="-35" width="590" height="378"/>
+    </clipPath>
+    <linearGradient id="Sky" x1="-128.22" y1="154" x2="461.78" y2="154" gradientTransform="translate(300.78) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cbdff3"/>
+      <stop offset=".06" stop-color="#c1dbf1"/>
+      <stop offset=".17" stop-color="#a8d1ed"/>
+      <stop offset=".31" stop-color="#7ec0e6"/>
+      <stop offset=".47" stop-color="#45a9dc"/>
+      <stop offset=".57" stop-color="#1e9ad6"/>
+      <stop offset=".87" stop-color="#0d76bc"/>
+      <stop offset=".99" stop-color="#045c98"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_113" data-name="Degradado sin nombre 113" x1="962.89" y1="-167.79" x2="1881.05" y2="-167.79" gradientTransform="translate(1437.04) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cbdff3"/>
+      <stop offset=".06" stop-color="#c1dbf1"/>
+      <stop offset=".17" stop-color="#a8d1ed"/>
+      <stop offset=".31" stop-color="#7ec0e6"/>
+      <stop offset=".47" stop-color="#45a9dc"/>
+      <stop offset=".57" stop-color="#1e9ad6"/>
+      <stop offset=".87" stop-color="#0d76bc"/>
+      <stop offset=".99" stop-color="#304899"/>
+    </linearGradient>
+    <linearGradient id="Sky-2" data-name="Sky" x1="887.46" y1="-119.12" x2="1805.62" y2="-119.12" gradientTransform="translate(1437.04) rotate(-180) scale(1 -1)" xlink:href="#Sky"/>
+    <linearGradient id="Sky-3" data-name="Sky" x1="887.46" y1="-313.79" x2="1805.62" y2="-313.79" gradientTransform="translate(1437.04) rotate(-180) scale(1 -1)" xlink:href="#Sky"/>
+    <linearGradient id="Sky-4" data-name="Sky" x1="962.89" y1="-252.96" x2="1881.05" y2="-252.96" gradientTransform="translate(1437.04) rotate(-180) scale(1 -1)" xlink:href="#Sky"/>
+    <linearGradient id="Degradado_sin_nombre_113-2" data-name="Degradado sin nombre 113" x1="-262.52" y1="561.6" x2="927.83" y2="561.6" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Degradado_sin_nombre_113"/>
+    <linearGradient id="Sky-5" data-name="Sky" x1="-360.34" y1="619.5" x2="830.01" y2="619.5" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Sky"/>
+    <linearGradient id="Sky-6" data-name="Sky" x1="-360.34" y1="387.88" x2="830.01" y2="387.88" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Sky"/>
+    <linearGradient id="Sky-7" data-name="Sky" x1="-309.3" y1="486.57" x2="881.05" y2="486.57" gradientTransform="matrix(1,0,0,1,0,0)" xlink:href="#Sky"/>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g class="cls-10">
+      <g class="cls-9">
+        <rect class="cls-13" x="-161" y="-35" width="590" height="378"/>
+        <g>
+          <path class="cls-7" d="m474.14-167.79c0,178.07-206.01,322.43-460.13,322.43-610.75-17.81-610.65-627.09,0-644.86,254.12,0,460.13,144.36,460.13,322.43Z"/>
+          <path class="cls-1" d="m549.57-119.12c0,178.07-206.01,322.43-460.13,322.43-610.75-17.81-610.65-627.09,0-644.86,254.12,0,460.13,144.36,460.13,322.43Z"/>
+          <path class="cls-5" d="m549.57-313.79c0,178.07-206.01,322.43-460.13,322.43-610.75-17.81-610.65-627.09,0-644.86,254.12,0,460.13,144.36,460.13,322.43Z"/>
+          <path class="cls-2" d="m474.14-252.96c0,178.07-206.01,322.43-460.13,322.43-610.75-17.81-610.65-627.09,0-644.86,254.12,0,460.13,144.36,460.13,322.43Z"/>
+        </g>
+        <g>
+          <path class="cls-3" d="m-262.52,561.6c0,211.87,267.14,383.62,596.67,383.62,791.64-20.63,791.52-746.66,0-767.25-329.52,0-596.66,171.75-596.66,383.62Z"/>
+          <path class="cls-8" d="m-360.34,619.5c0,211.87,267.14,383.62,596.67,383.62,791.64-20.63,791.52-746.66,0-767.25-329.52,0-596.66,171.75-596.66,383.62Z"/>
+          <path class="cls-6" d="m-360.34,387.88c0,211.87,267.14,383.62,596.67,383.62,791.64-20.63,791.52-746.66,0-767.25-329.52,0-596.66,171.75-596.66,383.62Z"/>
+          <path class="cls-4" d="m-309.3,486.57c0,211.87,267.14,383.62,596.67,383.62,791.64-20.63,791.52-746.66,0-767.25-329.52,0-596.66,171.75-596.66,383.62Z"/>
+        </g>
+      </g>
+    </g>
+    <text class="cls-12" transform="translate(38.46 216.82) scale(.98 1)"><tspan x="0" y="0">Cz</tspan></text>
+  </g>
+</svg>

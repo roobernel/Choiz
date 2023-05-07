@@ -1,0 +1,38 @@
+@import url(styles/mobile.css) only screen
+and (min-width:320px )
+and (max-width: 568px );
+
+@import url(styles/tablet.css) only screen
+and (min-width: 569px)
+and (max-width: 1024px);
+
+@import url(styles/web.css) only screen
+and (min-width: 1025px);
+
+@import url('https://fonts.googleapis.com/css2?family=Comme:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Comme', sans-serif;
+    scroll-behavior: smooth;
+}
+
+@keyframes transicionfondo{
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+body{
+    width: 100vw;
+    overflow-x: hidden;
+}
