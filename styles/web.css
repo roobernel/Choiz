@@ -15,8 +15,8 @@
 .quieroempezar a{
     background: rgb(243, 194, 69);
     color: rgb(7, 7, 108);
-    width: 15vw;
-    height: 15vw;
+    width: 180px;
+    height: 180px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -39,8 +39,7 @@ nav{
 
 }
 .burga{
-    overflow: hidden;
-    text-indent: -400px;
+    display: none;
     }
 h1{ 
     overflow: hidden;
@@ -197,7 +196,7 @@ h3{
     height: 40px;
     background-size: cover;
     background-image: url(../recursos/iconos/aflecha\ .svg);
-    box-shadow:1px px 10px rgba(0, 0, 0, 0.664) ;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.664) ;
     border-radius: 40px;
 }
 
