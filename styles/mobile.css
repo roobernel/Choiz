@@ -94,10 +94,10 @@ nav:hover .menu{
     flex-direction: column;
     justify-content: start;
     padding: 15px 0px 0px 40px;
-    border-radius: 40px 40px 40px 40px;
+    border-radius: 5%;
     flex-direction: column;
     top: 50px;
-    align-items:start;
+    align-items:end;
     gap: 20px;
 }
 .menu a{
@@ -239,7 +239,7 @@ h3{
     height: 40px;
     background-size: cover;
     background-image: url(../recursos/iconos/aflecha\ .svg);
-    box-shadow:1px px 10px rgba(0, 0, 0, 0.664) ;
+    box-shadow:1px 10px rgba(0, 0, 0, 0.664) ;
     border-radius: 40px;
 }
 
