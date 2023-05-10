@@ -1,0 +1,11 @@
+Escuela de Arte Multimedial Da Vinci
+● CARRERA: Diseño y Programación Web
+● MATERIA: Interacción con Dispositivos Móviles
+● TRABAJO PRÁCTICO: Examen Parcial 1
+● PROFESOR: Camila Marcos Galban
+● ALUMNO:Rodrigo Ezequiel Armando Bernel
+● CUATRIMESTRE: 2do Cuatrimestre
+● COMISIÓN:DWN2BP
+● TURNO:Noche
+● FECHA DE ENTREGA: 11/05/2023
+● URL DEL SITIO:https://roobernel.github.io/Choiz/
