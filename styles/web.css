@@ -12,8 +12,22 @@
     display: flex;
     justify-content: center;
 }
+@keyframes cta {
+    0% {
+        background-size: 0% 50%;
+    }
+
+    50% {
+        background-size: 100% 50%;
+    }
+
+    100% {
+        background-size: 0% 50%;
+    }
+}
 .quieroempezar a{
-    background: rgb(243, 194, 69);
+    background: RADIAL-gradient( rgb(255, 235, 10) 13%, rgb(23, 17, 8) 100%);
+    animation: cta 10s infinite ease cover;
     color: rgb(7, 7, 108);
     width: 180px;
     height: 180px;
