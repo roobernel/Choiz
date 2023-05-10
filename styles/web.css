@@ -12,25 +12,13 @@
     display: flex;
     justify-content: center;
 }
-@keyframes cta {
-    0% {
-        background-size: 0% 50%;
-    }
 
-    50% {
-        background-size: 100% 50%;
-    }
-
-    100% {
-        background-size: 0% 50%;
-    }
-}
 .quieroempezar a{
-    background: RADIAL-gradient( rgb(255, 235, 10) 13%, rgb(23, 17, 8) 100%);
-    animation: cta 10s infinite ease cover;
+    background: RADIAL-gradient( rgb(255, 213, 0) 25%,rgb(255, 229, 97) 50%,rgb(255, 234, 0) 75%, rgb(255, 200, 0) 100%);
+    background-size: 300%;
     color: rgb(7, 7, 108);
-    width: 180px;
-    height: 180px;
+    width: 160px;
+    height: 160px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -43,7 +31,7 @@
     border-radius: 50%;
     text-transform: uppercase;
     font-weight: 800;
-    font-size: 1rem;
+    font-size: 1.2rem;
     box-shadow:1px 0px 10px rgba(0, 0, 0, 0.699) ;
 }
 nav{
